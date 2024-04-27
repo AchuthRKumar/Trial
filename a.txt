@@ -1,5 +1,6 @@
 This is a sample file to be added in the git
 This change was made ahead to stashing
 this sentence is going to be deleted in rebase
+This change was made in the feature branch and going to be merges
 
 
