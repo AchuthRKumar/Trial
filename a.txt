@@ -4,3 +4,4 @@ this sentence is going to be deleted in rebase
 This change was made in the feature branch and going to be merges
 This sentence was added in stash
 This sentence is the new feature added in the feature branch
+This is just a change
